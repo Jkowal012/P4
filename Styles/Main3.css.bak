@@ -1,0 +1,70 @@
+/* the styles for the header */
+header {
+	
+}
+
+header h1{
+	font-size: 200%;
+	
+}
+
+header h2{
+	font-size: 120%;
+	font-style: italic; 
+}
+
+/* the styles for the main content */
+main {
+	clear: left;
+}
+
+/* the styles for the section */
+section {
+
+}
+
+section h5 {
+	font-size: 130%
+}
+
+section ul {
+	font-size: 100%
+}
+section p{
+	font-size: 90%; 
+}
+section img {
+	padding-top: 0.5em; 
+}
+.card-title {
+	font-size: 120%; 
+	font-style: bold; 
+}
+.card-text {
+	font-size: 80%;
+	font-style: italic;
+}
+.Fastball {
+display: flex;
+}
+.Curveball {
+	display: flex;
+}
+.Sinker {
+	display: flex;
+}
+.Slider {
+	display: flex;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
+

@@ -1,0 +1,45 @@
+/* the styles for the header */
+header {
+	
+}
+
+header h1{
+	font-size: 200%;
+	
+}
+
+header h2{
+	font-size: 120%;
+	font-style: italic; 
+}
+
+
+/* the styles for the main content */
+main {
+	clear: left;
+}
+
+/* the styles for the section */
+section {
+
+}
+
+section h1 {
+	font-size: 130%
+}
+
+section p {
+	font-size: 85%;
+}
+
+.footer {
+    position: sticky;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
